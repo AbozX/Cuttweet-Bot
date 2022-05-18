@@ -1,2 +1,2 @@
 # Cuttweet-Bot
-Discord Cuttweet Bot.&lt;3
+Discord Cuttweet Bot.&lt;3ss
